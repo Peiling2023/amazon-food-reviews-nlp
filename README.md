@@ -24,6 +24,7 @@ This project demonstrates an end-to-end NLP pipeline analyzing **Amazon Food Rev
 - Git & Reproducible ML Workflow
 
 ## 📂 Repository Structure
+```bash
 AmazonFoodReviews/
 │── data/ # Raw dataset & screenshots
 │── notebooks/ # Jupyter notebooks for exploration
