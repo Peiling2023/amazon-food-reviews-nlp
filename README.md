@@ -33,7 +33,7 @@ AmazonFoodReviews/
 │── docs/ # Project instructions & references
 │── README.md # Project documentation
 │── requirements.txt # Python dependencies
-
+```
 
 ## How to Run
 ```bash
